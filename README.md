@@ -6,7 +6,11 @@
 
 ---
 
+##
+
 ## Skills / Programs
+
+##
 
 <img align="left" alt="python" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png&color=000000" />
 <img align="left" alt="SQL" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=59952&format=png&color=000000" />
@@ -20,6 +24,8 @@
 <img align="left" alt="MS Dynamic" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=TdZTMv5DI6kp&format=png&color=000000" />
 <img align="left" alt="Salesforce" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=38804&format=png&color=000000" />
 <img align="left" alt="EDI" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=8oiM2yih1bUd&format=png&color=000000" />
+
+##
 
 ##
 
