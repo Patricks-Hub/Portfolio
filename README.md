@@ -5,6 +5,7 @@
 <details>
 <summary><h3>Patrick's About Section</h3></summary>
 My name is Patrick and I am currently attending school at Des Moines Area Community College to get my associates degree in Computer Information Systems. I have been working in IT related fields for most of my career. I have done and learned a plethora of different industries, platforms, languages and systems and have always worked hard to overcome any challenges and worked to produce results that meet or exceed expectations.
+</details>
 
 ##
 
@@ -27,6 +28,8 @@ My name is Patrick and I am currently attending school at Des Moines Area Commun
 
 ##
 
+<details open>
+<summary><h3>Programming Projects</h3></summary>
 ## [Access - Projects](https://github.com/Patricks-Hub/Access/tree/main/Projects/Final)
 
 #### Final Project
@@ -94,3 +97,5 @@ This program takes user input for the name and scores and outputs and average wi
 #### Homework
 
 This is presently just shows my building of core competencies in SQL.
+
+</details>
