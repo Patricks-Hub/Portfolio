@@ -4,13 +4,23 @@
 
 #### My name is Patrick and I am currently attending school at Des Moines Area Community College to get my associates degree in Computer Information Systems. I have been working in IT related fields for most of my career. I have done and learned a plethora of different industries, platforms, languages and systems and have always worked hard to overcome any challenges and worked to produce results that meet or exceed expectations.
 
+---
+
+## Skills / Programs
+
+<img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://icons8.com/icon/uLDrtp8o8zTG/python" />
+
 ## [Access - Projects](https://github.com/Patricks-Hub/Access/tree/main/Projects/Final)
+
+--
 
 #### Final Project
 
 This was my final for Access database class.
 
 ## [HTML/CSS - Projects](https://github.com/Patricks-Hub/HTML-CSS/tree/main/Projects)
+
+--
 
 #### Waves School
 
@@ -34,11 +44,15 @@ This was a project where I needed to follow specific customer request and build 
 
 ## [Java - Projects](https://github.com/Patricks-Hub/Java/tree/main/Project%20Files)
 
+--
+
 #### Predefined Best Practices Program
 
 This program uses Java to take two user inputs plus a random generated number make sure that they are all positive and doubles and uses the math function to also figure out the largest and smallest numbers and put them to output.
 
 ## [JavaScript - Projects](https://github.com/Patricks-Hub/JavaScript/tree/main/Project%20Folder)
+
+--
 
 #### Calculator
 
@@ -50,9 +64,12 @@ This is a basic game where the system will generate a random number and the user
 
 ### [Photosdhop - Projects](https://github.com/Patricks-Hub/Photoshop/tree/main/Projects)
 
+--
 The projects folder shows a diverse group of GIF's, mp4's, and a web page with different techniques that I have learned from my photoshop class.
 
 ## [Python - Projects](https://github.com/Patricks-Hub/Python/tree/main/Simple%20Python%20Projects)
+
+--
 
 #### MinMax
 
@@ -67,6 +84,8 @@ This program was a class assignment that shows how to take an order calculate ta
 This program takes user input for the name and scores and outputs and average with their name. That shows some formatting techniques.
 
 ## [SQL-Projects](https://github.com/Patricks-Hub/SQL/tree/main/Projects)
+
+--
 
 #### Homework
 
