@@ -30,6 +30,7 @@ My name is Patrick and I am currently attending school at Des Moines Area Commun
 
 <details open>
 <summary><h3>Programming Projects</h3></summary>
+
 ## [Access - Projects](https://github.com/Patricks-Hub/Access/tree/main/Projects/Final)
 
 #### Final Project
