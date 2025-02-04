@@ -7,8 +7,6 @@
 My name is Patrick and I am currently attending school at Des Moines Area Community College to get my associates degree in Computer Information Systems. I have been working in IT related fields for most of my career. I have done and learned a plethora of different industries, platforms, languages and systems and have always worked hard to overcome any challenges and worked to produce results that meet or exceed expectations.
 </details>
 
-##
-
 ## Skills / Programs
 
 <img align="left" alt="python" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png&color=000000" />
@@ -23,10 +21,6 @@ My name is Patrick and I am currently attending school at Des Moines Area Commun
 <img align="left" alt="MS Dynamic" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=TdZTMv5DI6kp&format=png&color=000000" />
 <img align="left" alt="Salesforce" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=38804&format=png&color=000000" />
 <img align="left" alt="EDI" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=8oiM2yih1bUd&format=png&color=000000" />
-
-##
-
-##
 
 <details open>
 <summary><h3>Programming Projects</h3></summary>
