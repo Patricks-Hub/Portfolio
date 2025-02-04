@@ -1,5 +1,3 @@
-md.linkify.set({ fuzzyLink: false });
-
 # Patrick Foy
 
 ## Programmer and Web Dev
