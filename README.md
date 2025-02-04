@@ -8,7 +8,7 @@
 
 ## Skills / Programs
 
-<img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://icons8.com/icon/uLDrtp8o8zTG/python" />
+<img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png&color=000000" />
 
 ## [Access - Projects](https://github.com/Patricks-Hub/Access/tree/main/Projects/Final)
 
