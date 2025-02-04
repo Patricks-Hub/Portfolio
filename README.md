@@ -4,8 +4,6 @@
 
 #### My name is Patrick and I am currently attending school at Des Moines Area Community College to get my associates degree in Computer Information Systems. I have been working in IT related fields for most of my career. I have done and learned a plethora of different industries, platforms, languages and systems and have always worked hard to overcome any challenges and worked to produce results that meet or exceed expectations.
 
----
-
 ##
 
 ## Skills / Programs
