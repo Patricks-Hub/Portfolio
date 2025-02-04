@@ -2,49 +2,49 @@
 
 ## Programmer and Web Dev
 
-### My name is Patrick and I am currently attending school at Des Moines Area Community College to get my associates degree in Computer Information Systems. I have been working in IT related fields for most of my career. I have done and learned a plethora of different industries, platforms, languages and systems and have always worked hard to over come any challenge to produce results that meet or exceed expectations.
+#### My name is Patrick and I am currently attending school at Des Moines Area Community College to get my associates degree in Computer Information Systems. I have been working in IT related fields for most of my career. I have done and learned a plethora of different industries, platforms, languages and systems and have always worked hard to overcome any challenges and worked to produce results that meet or exceed expectations.
 
 ## [Access - Projects](https://github.com/Patricks-Hub/Access/tree/main/Projects/Final)
 
-### Final Project
+#### Final Project
 
 This was my final for Access database class.
 
 ## [HTML/CSS - Projects](https://github.com/Patricks-Hub/HTML-CSS/tree/main/Projects)
 
-### Waves School
+#### Waves School
 
 This was my final for the class we were given specific parameters to follow. This uses mostly bootstrap.
 
-### Cocoa Site
+#### Cocoa Site
 
 This was a in class project that I was allowed some freedoms to create the page how we like but still had specific requirements.
 
-### Bootstrap Space Site
+#### Bootstrap Space Site
 
 This was a project where I had to show competency in using bootstrap with specific parameters.
 
-### JavaScript Page
+##### JavaScript Page
 
 This was a page i just built that would have been used as my homework page. We ultimately did not use this.
 
-### Summit Site
+#### Summit Site
 
 This was a project where I needed to follow specific customer request and build a flex box webpage.
 
 ## [Java - Projects](https://github.com/Patricks-Hub/Java/tree/main/Project%20Files)
 
-### Predefined Best Practices Program
+#### Predefined Best Practices Program
 
 This program uses Java to take two user inputs plus a random generated number make sure that they are all positive and doubles and uses the math function to also figure out the largest and smallest numbers and put them to output.
 
 ## [JavaScript - Projects](https://github.com/Patricks-Hub/JavaScript/tree/main/Project%20Folder)
 
-### Calculator
+#### Calculator
 
 This program is a basic calculator that uses user inputs and switch statements to generate output based on user input.
 
-### Number Guessing Game
+#### Number Guessing Game
 
 This is a basic game where the system will generate a random number and the user has seven attempts to guess the correct number without puts for too high too low and when they get it right.
 
@@ -54,20 +54,20 @@ The projects folder shows a diverse group of GIF's, mp4's, and a web page with d
 
 ## [Python - Projects](https://github.com/Patricks-Hub/Python/tree/main/Simple%20Python%20Projects)
 
-### MinMax
+#### MinMax
 
 This program was a class assignment that just showed how to make a basic program showing the functions of min and max.
 
-### Coupon Estimator
+#### Coupon Estimator
 
 This program was a class assignment that shows how to take an order calculate tax and add shipping as well as ADD discounts entered by the customer.
 
-### Average Scores
+#### Average Scores
 
 This program takes user input for the name and scores and outputs and average with their name. That shows some formatting techniques.
 
 ## [SQL-Projects](https://github.com/Patricks-Hub/SQL/tree/main/Projects)
 
-### Homework
+#### Homework
 
 This is presently just shows my building of core competencies in SQL.
