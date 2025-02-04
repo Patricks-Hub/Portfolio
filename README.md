@@ -1,6 +1,6 @@
 # Patrick Foy
 
-## Programmer and Web Dev
+### Programmer and Web Dev
 
 <details>
 <summary><h3>Patrick's About Section</h3></summary>
