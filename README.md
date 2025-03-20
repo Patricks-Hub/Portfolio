@@ -72,7 +72,7 @@ This program is a basic calculator that uses user inputs and switch statements t
 
 This is a basic game where the system will generate a random number and the user has seven attempts to guess the correct number without puts for too high too low and when they get it right.
 
-### [Photosdhop - Projects](https://github.com/Patricks-Hub/Photoshop/tree/main/Projects)
+### [Photoshop - Projects](https://github.com/Patricks-Hub/Photoshop/tree/main/Projects)
 
 The projects folder shows a diverse group of GIF's, mp4's, and a web page with different techniques that I have learned from my photoshop class.
 
