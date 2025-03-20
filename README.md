@@ -58,9 +58,14 @@ This was a project where I needed to follow specific customer requests and build
 
 ## [Java - Projects](https://github.com/Patricks-Hub/Java/tree/main/Project%20Files)
 
-#### Predefined Best Practices Program
+#### Basic Projects
 
-This program uses Java to take two user inputs plus a random generated number make sure that they are all positive and doubles and uses the math function to also figure out the largest and smallest numbers and put them to output.
+The Basic Projects folder contains mostly basic programs from learning in class and shows different aspects and proficiency in Java. 
+
+#### Virtual Pet Midterm
+
+This was my midterm and it demonstrates a proficiency in Java creating a program similar to virtual pet toys of the later 90’s and early 2000’s.
+
 
 ## [JavaScript - Projects](https://github.com/Patricks-Hub/JavaScript/tree/main/Project%20Folder)
 
@@ -79,7 +84,7 @@ The projects folder shows a diverse group of GIF's, mp4's, and a web page with d
 ## [Python - Projects](https://github.com/Patricks-Hub/Python/tree/main)
 #### Simple Projects
 
-The Simple Python Projects folder contains mostly basic programs from learning in class and are to show different aspects and proficiency in the Python. 
+The Simple Python Projects folder contains mostly basic programs from learning in class and shows different aspects and proficiency in Python. 
 
 #### Personal Python Projects
 
