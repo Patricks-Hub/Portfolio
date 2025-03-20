@@ -36,7 +36,7 @@ This was my final exam for Access database class.
 
 ### [HTML/CSS - Projects](https://github.com/Patricks-Hub/HTML-CSS/tree/main/Projects)
 
-## Waves School
+### Waves School
 
 This was my final for the class we were given specific parameters to follow. This uses mostly bootstrap.
 
