@@ -76,7 +76,7 @@ This is a basic game where the system will generate a random number and the user
 
 The projects folder shows a diverse group of GIF's, mp4's, and a web page with different techniques that I have learned from my photoshop class.
 
-## [Python - Projects](https://github.com/Patricks-Hub/Python/tree/main/Simple%20Python%20Projects)
+## [Python - Projects](https://github.com/Patricks-Hub/Python/tree/main/Simple%20Python%20Projects)](https://github.com/Patricks-Hub/Python/tree/main)
 
 #### MinMax
 
