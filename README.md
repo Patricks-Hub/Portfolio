@@ -28,52 +28,52 @@ My name is Patrick, and I am currently attending school at Des Moines Area Commu
 <details open>
 <summary><h3>Programming Projects</h3></summary>
 
-## [Access - Projects](https://github.com/Patricks-Hub/Access/tree/main/Projects/Final)
+### [Access - Projects](https://github.com/Patricks-Hub/Access/tree/main/Projects/Final)
 
-#### Final Project
+## Final Project
 
 This was my final exam for Access database class.
 
-## [HTML/CSS - Projects](https://github.com/Patricks-Hub/HTML-CSS/tree/main/Projects)
+### [HTML/CSS - Projects](https://github.com/Patricks-Hub/HTML-CSS/tree/main/Projects)
 
-#### Waves School
+## Waves School
 
 This was my final for the class we were given specific parameters to follow. This uses mostly bootstrap.
 
-#### Cocoa Site
+## Cocoa Site
 
 This was a in class project that I was allowed some freedoms to create the page how we like but still had specific requirements.
 
-#### Bootstrap Space Site
+## Bootstrap Space Site
 
 This was a project where I had to show competency in using bootstrap with specific parameters.
 
-##### JavaScript Page
+## JavaScript Page
 
 This was a page I just built that would have been used as my homework page. We ultimately did not use this.
 
-#### Summit Site
+## Summit Site
 
 This was a project where I needed to follow specific customer requests and build a flex box webpage.
 
-## [Java - Projects](https://github.com/Patricks-Hub/Java/tree/main/Project%20Files)
+### [Java - Projects](https://github.com/Patricks-Hub/Java/tree/main/Project%20Files)
 
-#### Basic Projects
+## Basic Projects
 
 The Basic Projects folder contains mostly basic programs from learning in class and shows different aspects and proficiency in Java. 
 
-#### Virtual Pet Midterm
+## Virtual Pet Midterm
 
 This was my midterm and it demonstrates a proficiency in Java creating a program similar to virtual pet toys of the later 90’s and early 2000’s.
 
 
-## [JavaScript - Projects](https://github.com/Patricks-Hub/JavaScript/tree/main/Project%20Folder)
+### [JavaScript - Projects](https://github.com/Patricks-Hub/JavaScript/tree/main/Project%20Folder)
 
-#### Calculator
+## Calculator
 
 This program is a basic calculator that uses user input and switch statements to generate output based on user input.
 
-#### Number Guessing Game
+## Number Guessing Game
 
 This is a basic game where the system will generate a random number, and the user has seven attempts to guess the correct number without puts for too high too low and when they get it right.
 
@@ -81,18 +81,18 @@ This is a basic game where the system will generate a random number, and the use
 
 The projects folder shows a diverse group of GIF's, mp4's, and a web page with different techniques that I have learned from my photoshop class.
 
-## [Python - Projects](https://github.com/Patricks-Hub/Python/tree/main)
-#### Simple Projects
+### [Python - Projects](https://github.com/Patricks-Hub/Python/tree/main)
+## Simple Projects
 
 The Simple Python Projects folder contains mostly basic programs from learning in class and shows different aspects and proficiency in Python. 
 
-#### Personal Python Projects
+## Personal Python Projects
 
 The Personal Python Projects folder contains various functional programs above and beyond basic knowledge learned and displays my skill in ability to work with API's and create various programs. 
 
-## [SQL-Projects](https://github.com/Patricks-Hub/SQL/tree/main/Projects)
+### [SQL-Projects](https://github.com/Patricks-Hub/SQL/tree/main/Projects)
 
-#### Homework
+## Homework
 
 This presently just shows my building of core competencies in SQL.
 
