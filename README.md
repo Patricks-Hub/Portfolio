@@ -69,7 +69,7 @@ This was my midterm and it demonstrates a proficiency in Java creating a program
 
 ## [JavaScript - Projects](https://github.com/Patricks-Hub/JavaScript/tree/main/Project%20Folder)
 
-###Next JS Projects
+### Next JS Projects
 
 Various Projects using Next.JS and React
 
