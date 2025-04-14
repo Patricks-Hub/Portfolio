@@ -34,19 +34,15 @@ My name is Patrick, and I am currently attending school at Des Moines Area Commu
 
 This was my final exam for Access database class.
 
-## [HTML/CSS - Projects](https://github.com/Patricks-Hub/HTML-CSS/tree/main/Projects)
+## [SQL-Projects](https://github.com/Patricks-Hub/SQL/tree/main/Projects)
 
-### Waves School
+### Online Retail Database
 
-This was my final for the class we were given specific parameters to follow. This uses mostly bootstrap.
+A MySQL database for synthetic retail transactions, enriched with customer demographics and formatted via a Python ETL tool.
 
-### Cocoa Site
+### Homework
 
-This was a in class project that I was allowed some freedoms to create the page how we like but still had specific requirements.
-
-### Bootstrap Space Site
-
-This was a project where I had to show competency in using bootstrap with specific parameters.
+This presently just shows my building of core competencies in SQL.
 
 ### JavaScript Page
 
@@ -101,14 +97,18 @@ The Simple Python Projects folder contains mostly basic programs from learning i
 
 The Personal Python Projects folder contains various functional programs above and beyond basic knowledge learned and displays my skill in ability to work with API's and create various programs. 
 
-## [SQL-Projects](https://github.com/Patricks-Hub/SQL/tree/main/Projects)
+## [HTML/CSS - Projects](https://github.com/Patricks-Hub/HTML-CSS/tree/main/Projects)
 
-### Online Retail Database
+### Waves School
 
-A MySQL database for synthetic retail transactions, enriched with customer demographics and formatted via a Python ETL tool.
+This was my final for the class we were given specific parameters to follow. This uses mostly bootstrap.
 
-### Homework
+### Cocoa Site
 
-This presently just shows my building of core competencies in SQL.
+This was a in class project that I was allowed some freedoms to create the page how we like but still had specific requirements.
+
+### Bootstrap Space Site
+
+This was a project where I had to show competency in using bootstrap with specific parameters.
 
 </details>
