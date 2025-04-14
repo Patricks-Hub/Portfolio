@@ -44,13 +44,14 @@ A MySQL database for synthetic retail transactions, enriched with customer demog
 
 This presently just shows my building of core competencies in SQL.
 
-### JavaScript Page
+## [Python - Projects](https://github.com/Patricks-Hub/Python/tree/main)
+### Simple Projects
 
-This was a page I just built that would have been used as my homework page. We ultimately did not use this.
+The Simple Python Projects folder contains mostly basic programs from learning in class and shows different aspects and proficiency in Python. 
 
-### Summit Site
+### Personal Python Projects
 
-This was a project where I needed to follow specific customer requests and build a flex box webpage.
+The Personal Python Projects folder contains various functional programs above and beyond basic knowledge learned and displays my skill in ability to work with API's and create various programs.
 
 ## [Java - Projects](https://github.com/Patricks-Hub/Java/tree/main/Project%20Files)
 
@@ -61,7 +62,6 @@ The Basic Projects folder contains mostly basic programs from learning in class 
 ### Virtual Pet Midterm
 
 This was my midterm and it demonstrates a proficiency in Java creating a program similar to virtual pet toys of the later 90’s and early 2000’s.
-
 
 ## [JavaScript - Projects](https://github.com/Patricks-Hub/JavaScript/tree/main/Project%20Folder)
 
@@ -86,16 +86,7 @@ General homework showing core concepts
 
 ## [Photoshop - Projects](https://github.com/Patricks-Hub/Photoshop/tree/main/Projects)
 
-The projects folder shows a diverse group of GIF's, mp4's, and a web page with different techniques that I have learned from my photoshop class.
-
-## [Python - Projects](https://github.com/Patricks-Hub/Python/tree/main)
-### Simple Projects
-
-The Simple Python Projects folder contains mostly basic programs from learning in class and shows different aspects and proficiency in Python. 
-
-### Personal Python Projects
-
-The Personal Python Projects folder contains various functional programs above and beyond basic knowledge learned and displays my skill in ability to work with API's and create various programs. 
+The projects folder shows a diverse group of GIF's, mp4's, and a web page with different techniques that I have learned from my photoshop class. 
 
 ## [HTML/CSS - Projects](https://github.com/Patricks-Hub/HTML-CSS/tree/main/Projects)
 
@@ -106,6 +97,14 @@ This was my final for the class we were given specific parameters to follow. Thi
 ### Cocoa Site
 
 This was a in class project that I was allowed some freedoms to create the page how we like but still had specific requirements.
+
+### JavaScript Page
+
+This was a page I just built that would have been used as my homework page. We ultimately did not use this.
+
+### Summit Site
+
+This was a project where I needed to follow specific customer requests and build a flex box webpage.
 
 ### Bootstrap Space Site
 
