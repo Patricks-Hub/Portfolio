@@ -69,6 +69,10 @@ This was my midterm and it demonstrates a proficiency in Java creating a program
 
 ## [JavaScript - Projects](https://github.com/Patricks-Hub/JavaScript/tree/main/Project%20Folder)
 
+###Next JS Projects
+
+Various Projects using Next.JS and React
+
 ### Calculator
 
 This program is a basic calculator that uses user input and switch statements to generate output based on user input.
@@ -76,6 +80,13 @@ This program is a basic calculator that uses user input and switch statements to
 ### Number Guessing Game
 
 This is a basic game where the system will generate a random number, and the user has seven attempts to guess the correct number without puts for too high too low and when they get it right.
+
+### Pair Programming - Color Matching Game
+
+This was a team project that I lead and developed using Javasript
+
+### Unit-4 Assignment
+General homework showing core concepts 
 
 ## [Photoshop - Projects](https://github.com/Patricks-Hub/Photoshop/tree/main/Projects)
 
@@ -91,6 +102,10 @@ The Simple Python Projects folder contains mostly basic programs from learning i
 The Personal Python Projects folder contains various functional programs above and beyond basic knowledge learned and displays my skill in ability to work with API's and create various programs. 
 
 ## [SQL-Projects](https://github.com/Patricks-Hub/SQL/tree/main/Projects)
+
+### Online Retail Database
+
+A MySQL database for synthetic retail transactions, enriched with customer demographics and formatted via a Python ETL tool.
 
 ### Homework
 
